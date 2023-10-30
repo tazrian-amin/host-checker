@@ -1,0 +1,10 @@
+{
+  "hosts": [
+    "www.mining-sentry.com",
+    "www.lutango.com",
+    "pwbdesignservice.com",
+    "www.tazrian.dev",
+    "www.example-host.com"
+  ],
+  "check_interval": 10
+}

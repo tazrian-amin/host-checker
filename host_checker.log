@@ -1,0 +1,39 @@
+2023-10-29 01:55:23,627 - ERROR - www.tazarin.com is unreachable at 2023-10-29 01:55:23.627404
+2023-10-29 01:55:28,178 - INFO - Email sent successfully at 2023-10-29 01:55:28.178000
+2023-10-29 01:55:38,900 - ERROR - www.tazarin.com is unreachable at 2023-10-29 01:55:38.900436
+2023-10-29 01:55:42,018 - INFO - Email sent successfully at 2023-10-29 01:55:42.018093
+2023-10-29 02:10:30,253 - ERROR - www.tazarin.com is unreachable at 2023-10-29 02:10:30.253039
+2023-10-29 02:10:33,504 - INFO - Email sent successfully at 2023-10-29 02:10:33.504415
+2023-10-29 02:10:44,167 - ERROR - www.tazarin.com is unreachable at 2023-10-29 02:10:44.167520
+2023-10-29 02:10:47,584 - INFO - Email sent successfully at 2023-10-29 02:10:47.584080
+2023-10-29 02:12:18,755 - ERROR - www.tazarin.com is unreachable at 2023-10-29 02:12:18.755282
+2023-10-29 02:12:22,413 - INFO - Email sent successfully at 2023-10-29 02:12:22.413443
+2023-10-29 02:12:33,014 - ERROR - www.tazarin.com is unreachable at 2023-10-29 02:12:33.014354
+2023-10-29 02:12:36,746 - INFO - Email sent successfully at 2023-10-29 02:12:36.746347
+2023-10-30 22:21:31,317 - ERROR - www.mining-sentry.com is unreachable at 2023-10-30 22:21:31.317276
+2023-10-30 22:21:37,476 - ERROR - Failed to send email: Connection unexpectedly closed: The read operation timed out
+2023-10-30 22:22:07,060 - ERROR - www.tazrianii2.dev is unreachable at 2023-10-30 22:22:07.060269
+2023-10-30 22:22:11,519 - INFO - Email sent successfully at 2023-10-30 22:22:11.519213
+2023-10-30 22:22:20,067 - ERROR - pwbdesignservice.com is unreachable at 2023-10-30 22:22:20.066700
+2023-10-30 22:22:20,067 - ERROR - www.tazrianii2.dev is unreachable at 2023-10-30 22:22:20.067700
+2023-10-30 22:22:22,281 - ERROR - Failed to send email: Connection unexpectedly closed: The read operation timed out
+2023-10-30 22:22:30,832 - ERROR - www.tazrianii2.dev is unreachable at 2023-10-30 22:22:30.832788
+2023-10-30 22:22:33,972 - ERROR - Failed to send email: _ssl.c:983: The handshake operation timed out
+2023-10-30 22:22:39,471 - ERROR - www.tazrianii2.dev is unreachable at 2023-10-30 22:22:39.471652
+2023-10-30 22:22:42,776 - INFO - Email sent successfully at 2023-10-30 22:22:42.776844
+2023-10-30 22:22:48,650 - ERROR - www.tazrianii2.dev is unreachable at 2023-10-30 22:22:48.650404
+2023-10-30 22:22:51,161 - INFO - Email sent successfully at 2023-10-30 22:22:51.161927
+2023-10-30 23:45:53,582 - ERROR - www.tazrian222.dev is unreachable at 2023-10-30 23:45:53.581689
+2023-10-30 23:45:53,583 - ERROR - Email configuration is missing in the JSON config file.
+2023-10-30 23:46:03,994 - ERROR - www.tazrian222.dev is unreachable at 2023-10-30 23:46:03.994776
+2023-10-30 23:46:03,994 - ERROR - Email configuration is missing in the JSON config file.
+2023-10-30 23:46:14,559 - ERROR - www.tazrian222.dev is unreachable at 2023-10-30 23:46:14.559068
+2023-10-30 23:46:14,559 - ERROR - Email configuration is missing in the JSON config file.
+2023-10-30 23:46:25,987 - ERROR - www.tazrian222.dev is unreachable at 2023-10-30 23:46:25.987994
+2023-10-30 23:46:25,988 - ERROR - Email configuration is missing in the JSON config file.
+2023-10-30 23:47:41,057 - ERROR - www.tazrian222.dev is unreachable at 2023-10-30 23:47:41.057797
+2023-10-30 23:47:44,290 - INFO - Email sent successfully at 2023-10-30 23:47:44.290384
+2023-10-30 23:47:54,909 - ERROR - www.tazrian222.dev is unreachable at 2023-10-30 23:47:54.909323
+2023-10-30 23:47:57,929 - INFO - Email sent successfully at 2023-10-30 23:47:57.929525
+2023-10-30 23:49:00,944 - ERROR - www.example-host.com is unreachable at 2023-10-30 23:49:00.944044
+2023-10-30 23:49:03,129 - INFO - Email sent successfully at 2023-10-30 23:49:03.129696
